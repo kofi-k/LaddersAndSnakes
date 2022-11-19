@@ -1,3 +1,4 @@
+# Snakes :snake: and Ladders :ladder: Game 
 Ladders and Snakes is java coded from scratch to simulate the traditional  ladders and snakes game. 
 It literally implements majority of the rules of the game
 -from rolling a 6 before starting at square 1
