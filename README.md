@@ -13,5 +13,8 @@ It applies the 4 pillars of OOP to simulate the traditional ladders and snakes g
 - annnnddd I'm yawning 
 - for the record this isn't a nice looking code but it **WORKS!** ...don't you give me that look on your face
 
+## Software used
+Eclipse IDE
+
 ### **FORK** this already, get your hands dirty and send that pull request with some happy looking upgrades
 
